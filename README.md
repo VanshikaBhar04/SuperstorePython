@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-Welcome to the STA SuperMart Sales Analysis project! In this lab, you will assume the role of a data analyst at STA SuperMart, a retail giant that has been experiencing a steady decline in sales revenue over the past few years. Your mission is to analyze the sales data, create visualizations, and forecast future sales revenue to help the sales and marketing teams make informed decisions about product offerings, pricing, and promotional activities.
+Welcome to the STA SuperMart Sales Analysis project! As a data analyst at STA SuperMart, I am tasked with analyzing the sales data, creating visualizations, and forecasting future sales revenue. My goal is to help the sales and marketing teams make informed decisions about product offerings, pricing, and promotional activities. This project is critical for STA SuperMart to remain competitive in the market and boost revenue.
 
 ## **Objectives**
 
